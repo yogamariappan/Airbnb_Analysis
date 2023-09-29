@@ -43,10 +43,15 @@ visualizations.
 ##Skills
 
 **Python scripting** 
+
 **Data Preprocessing, Visualization**
+
 **EDA** 
+
 **Streamlit**
+
 **MongoDb** 
+
 **Tableau**
 
 
