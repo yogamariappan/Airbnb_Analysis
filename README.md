@@ -40,7 +40,7 @@ visualizations.
 - **Tableau:** It's a Reporting tool for creating charts like (bar,pie,scatter,histogram,map,donut,treemap,heatmap,etc) and creating dashboard 
 
 
-##Skills
+## Skills:
 
 **Python scripting** 
 
