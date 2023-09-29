@@ -29,7 +29,7 @@ tasks.
 - **Streamlit:** A Python library used for creating interactive web applications and data 
 visualizations.
 
-- **EDA:**EDA is used to understand and analysis for our knowledge.
+- **EDA:** EDA is used to understand and analysis for our knowledge.
 
 - **MongoDB:** A NoSQL database used as a data lake for storing retrieved YouTube data.
 
