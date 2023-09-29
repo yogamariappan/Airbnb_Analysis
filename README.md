@@ -37,7 +37,7 @@ visualizations.
 
 - **Matplotlib:** A data visualization library used for creating charts and graphs.
 
-- **Tableau:** It's a Reporting tool for creating charts like (bar,pie,scatter,histogram,map,donut,treemap,heatmap,etc) and creating dashboard 
+- **Tableau:** It's a Reporting tool for creating charts like (bar,pie,scatter,histogram,map,donut,treemap,heatmap,etc) and creating dashboar
 
 
 **Skills:**
